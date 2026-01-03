@@ -11,9 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Mathematics**, Harbin Institute of Technology (Shenzhen) · 2022 – 2025
+  * Mathematics · GPA: Rank 1 / Cohort
+
+* **B.S. in Mathematics (Honors Program)**, Fuzhou University · 2018 – 2022
+  * Mathematics, Physics & Computer Science · GPA: Rank 1 / Program
+
+Honors & Awards
+======
+* National Scholarship (Graduate Level), China
+* Outstanding Graduate, Harbin Institute of Technology (Shenzhen)
+* Outstanding Graduate, Fuzhou University
+* National Third Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)
 
 Work experience
 ======
